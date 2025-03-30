@@ -3,17 +3,17 @@
 # Hello, I'm CHANGEME
 <a href="https://www.linkedin.com/in/maria-c-6567a031b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an aspiring cybersecurity engineer with a strong foundation in computer science and a passion for securing digital systems. My skills include network security, penetration testing, and digital forensics, with hands-on experience developing projects like a network traffic sniffer, pentesting automation, and a basic SIEM system. I am proficient in Python and have a solid understanding of networking, database management, and information security principles. I have worked with tools like Wireshark, Metasploit, and Burp Suite, continuously expanding my knowledge in ethical hacking, threat detection, and incident response. I am committed to honing my skills and contributing to the ever-evolving field of cybersecurity.
+
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I am building a cybersecurity portfolio to showcase my technical skills, problem-solving abilities, and deep understanding of security concepts. My projects focus on areas such as network security, penetration testing, digital forensics, and threat detection. Through hands-on development, I create tools and scripts for ethical hacking, security automation, and incident response. This portfolio serves as a testament to my commitment to cybersecurity, allowing me to contribute to the community, collaborate with like-minded professionals, and continuously enhance my expertise to tackle real-world security challenges.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
