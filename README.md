@@ -1,9 +1,9 @@
 # Maria
 
-# Hello, I'm ##Maria
+# Hello, I'm ## Maria
 <a href="https://www.linkedin.com/in/maria-c-6567a031b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-##Brief Introduction
+## Brief Introduction
 
 I am an aspiring cybersecurity engineer with a strong foundation in computer science and a passion for securing digital systems. My skills include network security, penetration testing, and digital forensics, with hands-on experience developing projects like a network traffic sniffer, pentesting automation, and a basic SIEM system. I am proficient in Python and have a solid understanding of networking, database management, and information security principles. I have worked with tools like Wireshark, Metasploit, and Burp Suite, continuously expanding my knowledge in ethical hacking, threat detection, and incident response. I am committed to honing my skills and contributing to the ever-evolving field of cybersecurity.
 
