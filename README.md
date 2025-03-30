@@ -1,6 +1,6 @@
-# Maria
+ Maria
 
-# Hello, I'm ## Maria
+# Hello, I'm <h1> Maria </h1>
 <a href="https://www.linkedin.com/in/maria-c-6567a031b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Brief Introduction
